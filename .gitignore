@@ -1,0 +1,7 @@
+venv/
+.venv/
+db.sqlite3
+*~
+*.pyc
+.env
+.pre-commit-config.yaml
